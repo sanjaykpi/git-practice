@@ -1,0 +1,422 @@
+ .container{
+    outline:solid 2px black ;
+    width: auto;
+    margin: 20px;
+} 
+.flex-container{
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+}
+.logo{
+    outline: solid 3px pink;
+    margin-left: 50px;
+    width: 50px;
+    text-align:center ;
+    height: 50px;
+}
+.navigation{
+    outline: solid 3px pink;
+    margin-right: 50px;
+    width: 100px;
+    text-align: center;
+    height: 50px;
+}
+.partner{
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    line-height: 200px;
+}
+.delivery-partner{
+    outline: solid 3px pink;
+    margin-left: 50px;
+    margin-top: 30px;
+    width: 200px;
+    text-align: center;
+    height: 200px;
+    margin-bottom: 30px;
+}
+.delivery-image{
+    outline: solid 3px pink;
+    margin-right: 50px;
+    margin-top: 30px;
+    width: 200px;
+    text-align: center;
+    height: 200px;
+    margin-bottom:30px ;
+}
+.about{
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+}
+.lorem-ipsum{
+    outline: solid 3px pink;
+    margin-left: 50px;
+    width: 200px;
+    text-align: center;
+    height: 100px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    line-height: 100px;
+}
+.dolor-sitema{
+    outline: solid 3px pink;
+    width: 200px;
+    text-align: center;
+    height: 100px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    line-height: 100px;
+}
+.set-ut{
+    outline: solid 3px pink;
+    margin-right: 50px;
+    margin-top: 30px;
+    width: 200px;
+    text-align: center;
+    height: 100px;
+    margin-bottom:30px ;
+    line-height: 100px;
+}
+.left{
+    display: flex;
+    justify-content: space-between;
+}
+.about-us{
+    outline: solid 3px pink;
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 200px;
+    text-align: center;
+    height: 100px;
+    margin-bottom: 30px;
+    line-height: 100px;
+}
+.down{
+    outline: solid 3px pink;
+    margin-left: 50px;
+    width: 200px;
+    text-align: center;
+    height: 100px;
+    line-height: 100px;
+}
+.mens-image{
+    outline: solid 3px pink;
+    margin-right: 250px;
+    margin-top: 30px;
+    width: 200px;
+    text-align: center;
+    height: 200px;
+    margin-bottom:30px ;
+    line-height: 150px;  
+}
+.header{
+    text-align: center;
+    font-size: 30px;
+    outline: solid 3px black;
+}
+.future{
+    display: flex;
+    justify-content: space-between;
+}
+.futures{
+    display: flex;
+    justify-content: space-between;
+}
+.storage{
+    outline: solid 3px pink;
+    margin-left: 30px;
+    margin-top: 30px;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+    font-size: 20px;
+}
+.logistics{
+    outline: solid 3px pink;
+    margin-top: 30px;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+    font-size: 20px;
+}
+.cargo{
+    outline: solid 3px pink;
+    margin-right: 30px;
+    margin-top: 30px;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+    font-size: 20px;
+}
+.trucking{
+    outline: solid 3px pink;
+    margin-left: 30px;
+    margin-top: 30px;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+    font-size: 20px;
+}
+.packaging{
+    outline: solid 3px pink;
+    margin-top: 30px;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+    font-size: 20px;
+}
+.warehousing{
+    outline: solid 3px pink;
+    margin-right: 30px;
+    margin-top: 30px;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+.full-image{
+    text-align: center;
+    outline: solid 3px pink;
+    height: 100px;
+
+}
+.available{
+    display: flex;
+    justify-content: space-between;
+}
+.gift-image{
+    outline: solid 3px pink;
+    margin-left: 50px;
+    margin-top: 50px;
+    text-align: center;
+    width: 200px;
+    height: 150px;
+    margin-bottom: 30px;
+    line-height: 150px;
+}
+.voluptatem{
+    outline: solid 3px pink;
+    margin-right: 50px;
+    margin-top: 50px;
+    text-align: center;
+    width: 200px;
+    height: 150px;
+    margin-bottom: 30px;
+    line-height: 150px;
+}
+.use-ful{
+    display: flex;
+    justify-content: space-between;
+}
+.corporis{
+    outline: solid 3px pink;
+    margin-left: 50px;
+    margin-top: 50px;
+    text-align: center;
+    width: 200px;
+    height: 150px;
+    margin-bottom: 30px;
+    line-height: 150px;
+}
+.free-image{
+    outline: solid 3px pink;
+    margin-right: 50px;
+    margin-top: 50px;
+    text-align: center;
+    width: 200px;
+    height: 150px;
+    margin-bottom: 30px;
+    line-height: 150px;
+}
+.bag{
+    display: flex;
+    justify-content: space-between;
+}
+.bag-image{
+    outline: solid 3px pink;
+    margin-left: 50px;
+    margin-top: 50px;
+    text-align: center;
+    width: 200px;
+    height: 150px;
+    margin-bottom: 30px;
+    line-height: 150px;
+}
+.sunt{
+    outline: solid 3px pink;
+    margin-right: 50px;
+    margin-top: 50px;
+    text-align: center;
+    width: 200px;
+    height: 150px;
+    margin-bottom: 30px;
+    line-height: 150px;
+}
+.travel{
+    display: flex;
+    justify-content: space-between;
+}
+.quas{
+    outline: solid 3px pink;
+    margin-left: 50px;
+    margin-top: 50px;
+    text-align: center;
+    width: 200px;
+    height: 150px;
+    margin-bottom: 30px;
+    line-height: 150px;
+}
+.ship-image{
+    outline: solid 3px pink;
+    margin-right: 50px;
+    margin-top: 50px;
+    text-align: center;
+    width: 200px;
+    height: 150px;
+    margin-bottom: 30px;
+    line-height: 150px;
+ }
+ .head{
+    text-align: center;
+    font-size: 30px;
+    outline: solid 3px black;
+ }
+.plan{
+    display: flex;
+    justify-content: space-between;
+}
+.free-plan{
+    outline: solid 3px pink;
+    margin-left: 50px;
+    margin-top: 50px;
+    text-align: center;
+    width: 200px;
+    height: 150px;
+    margin-bottom: 30px;
+    line-height: 150px;
+}
+.business-plan{
+    outline: solid 3px pink;
+    margin-top: 50px;
+    text-align: center;
+    width: 200px;
+    height: 150px;
+    margin-bottom: 30px;
+    line-height: 150px;
+}
+.developer-plan{
+    outline: solid 3px pink;
+    margin-right: 50px;
+    margin-top: 50px;
+    text-align: center;
+    width: 200px;
+    height: 150px;
+    margin-bottom: 30px;
+    line-height: 150px;
+}
+.total-image{
+    text-align: center;
+    outline: solid 3px pink;
+    height: 100px;
+}
+.main{
+    text-align: center;
+    font-size: 30px;
+    outline: solid 3px black;
+}
+.non-consectetur{
+    margin-top: 30px;
+    outline: solid 3px pink;
+    width: 300px;
+    margin-left: 400px;
+    text-align: center;
+}
+.feugiat{
+    margin-top: 30px;
+    outline: solid 3px pink;
+    width: 300px;
+    margin-left: 400px;
+    text-align: center;
+}
+.dolor-sit{
+    margin-top: 30px;
+    outline: solid 3px pink;
+    width: 300px;
+    margin-left: 400px;
+    text-align: center;
+}
+.ac-odio{
+    margin-top: 30px;
+    outline: solid 3px pink;
+    width: 300px;
+    margin-left: 400px;
+    text-align: center;
+}
+.tempus-quam{
+    margin-top: 30px;
+    outline: solid 3px pink;
+    width: 300px;
+    margin-left: 400px;
+    text-align: center;
+
+}
+.end{
+    display: flex;
+    justify-content: space-between;
+}
+.logis{
+    outline: solid 3px pink;
+    margin-left: 50px;
+    margin-top: 50px;
+    text-align: center;
+    width: 300px;
+    height: 150px;
+    margin-bottom: 30px;
+    line-height: 150px;
+}
+.useful-links{
+    outline: solid 3px pink;
+    margin-top: 50px;
+    text-align: center;
+    width: 100px;
+    height: 150px;
+    margin-bottom: 30px;
+    line-height: 150px;
+}
+.our-help{
+    outline: solid 3px pink;
+    margin-top: 50px;
+    text-align: center;
+    width: 100px;
+    height: 150px;
+    margin-bottom: 30px;
+    line-height: 150px;
+}
+.contact-us{
+    outline: solid 3px pink;
+    margin-right: 50px;
+    margin-top: 50px;
+    text-align: center;
+    width: 100px;
+    height: 150px;
+    margin-bottom: 30px;
+    line-height: 150px;
+}
+.link{
+    text-align: center;
+    outline: solid 3px pink;
+    height: 100px;
+    width: 200px;
+    margin-left: 450px;
+    line-height: 100px;
+}
